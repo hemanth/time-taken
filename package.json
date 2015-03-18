@@ -1,7 +1,7 @@
 {
   "name": "time-taken",
   "version": "1.0.1",
-  "description": "Get the execution time of a function.",
+  "description": "Get the execution time of a (sync) function.",
   "license": "MIT",
   "repository": "hemanth/time-taken",
   "author": {

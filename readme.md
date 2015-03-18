@@ -1,6 +1,6 @@
 # time-taken [![Build Status](https://travis-ci.org/hemanth/time-taken.svg?branch=master)](https://travis-ci.org/hemanth/time-taken)
 
-> Get the execution time of a function.
+> Get the execution time of a (sync) function. [Mainly for DOM manipulation functions for now.]
 
 
 ## Install
@@ -35,6 +35,14 @@ Type: `function`
 `meow`
 
 Returns a `Number` representing the time taken to execute the given function in miliseconds.
+
+## TODO 
+
+* Support Async functions.
+
+* Support Promises.
+
+* Support Generators.
 
 ## License
 
