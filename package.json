@@ -22,9 +22,9 @@
     "performance, function, util, time"
   ],
   "dependencies": {
-    "performance-now": "~0.2.0"
+    "performance-now": "0.2.0"
   },
   "devDependencies": {
-    "mocha": "*"
+    "mocha": "2.3.3"
   }
 }
