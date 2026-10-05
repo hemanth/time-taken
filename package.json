@@ -1,6 +1,6 @@
 {
   "name": "time-taken",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get the execution time of a (sync) function.",
   "license": "MIT",
   "repository": "hemanth/time-taken",
@@ -22,9 +22,9 @@
     "performance, function, util, time"
   ],
   "dependencies": {
-    "performance-now": "~0.2.0"
+    "performance-now": "~2.1.0"
   },
   "devDependencies": {
-    "mocha": "*"
+    "mocha": "^12.0.3"
   }
 }
